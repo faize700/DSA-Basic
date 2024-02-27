@@ -16,4 +16,4 @@ const getFibonacciNo = (num) =>{
 
 console.log(getFibonacciNo(14));
 
-// loop is running less than "num-2" because we have already added two numbers in array before entering.
+// loop is running less than "num-2" because we have already added two numbers in array before entering
