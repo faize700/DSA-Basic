@@ -5,10 +5,10 @@ const reverseArr = (arr) =>{
     // for (let i = arr.length; i > 0; i--) {
     //     ans.push(arr[i]);
     // }
+    // return ans;
     let s = 0;
     let e = arr.length - 1;
     let temp;
-    console.log(e);
     while(s < e){
         temp = arr[s];
         arr[s] = arr[e];
